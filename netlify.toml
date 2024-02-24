@@ -1,0 +1,2 @@
+or = "*"
+  headers = ["X-Frame-Options: ALLOW-FROM [origin]"]
